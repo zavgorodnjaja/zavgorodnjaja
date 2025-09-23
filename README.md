@@ -1,7 +1,7 @@
 ## Hi, I'm Zhanna 👋
 
-🎓 Student at Industrial University of Tuymen (2023-2027), Business Informatics
-👩‍💻 Backend developer
+🎓 Student at Industrial University of Tuymen (2023-2027), Business Informatics<br/>
+👩‍💻 Backend developer<br/>
 ✉️ Telegram @zhzvgr
 
 
